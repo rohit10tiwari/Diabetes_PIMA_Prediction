@@ -5,4 +5,4 @@ It is based on firstly the data analysis or feature Engineering so as to choose 
 
 Various Machine Learning models are trained and correlation is made using corrilation matrix.
 
-Various others classification paramters like F1 Score, Accuracy score, Confusion matrix are compared and a final decision is based on al these parameters.
+Various others classification paramters like F1 Score, Accuracy score, Confusion matrix are compared and a final decision is based on all these parameters.
